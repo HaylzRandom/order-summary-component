@@ -18,7 +18,8 @@ layouts!"
 
 ## Authors
 
-- [@haylzrandom](https://www.github.com/haylzrandom)
+- [@haylzrandom - Frontend Mentor](https://www.frontendmentor.io/profile/HaylzRandom)
+- [@HaylzRandom - GitHub](https://github.com/HaylzRandom)
 
 ## Acknowledgements
 
@@ -28,12 +29,15 @@ layouts!"
 
 Here are some related projects:
 
-**Coming Soon!**
+[Stats Preview Card Component](https://github.com/HaylzRandom/stats-preview-card-component)
 
 ## Screenshots
 
-![Desktop Screenshot](./screenshots/desktop-screenshot.png)
+Desktop Screenshot ![Desktop Screenshot](./screenshots/desktop-screenshot.png)
+Mobile Screenshot ![Mobile Screenshot](./screenshots/mobile-screenshot.png)
 
 ## Future Improvements
 
-- [ ] Mobile Design Implemented
+- [x] Mobile Design Implemented
+- [ ] Fix background positioning in mobile view
+- [ ] Fix hero image in mobile view
